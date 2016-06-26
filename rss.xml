@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Alliance-Covenant | To Serve God.]]></title>
         <description><![CDATA[Alliance-Covenant | To Serve God.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alliance-covenant/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 01:51:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 26 Jun 2016 12:42:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alliance-covenant/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello, world!]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2748182f-60f7-483d-9d5f-4ab105530d38.jpg">]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <link>https://thegrid.ai/alliance-covenant/hello-world/index.html</link>
             <guid isPermaLink="false">81dd6cb3-05c2-4526-b032-7dbee841905a</guid>
-            <pubDate>Sun, 26 Jun 2016 01:51:02 GMT</pubDate>
+            <pubDate>Sun, 26 Jun 2016 12:42:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
